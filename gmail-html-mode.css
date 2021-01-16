@@ -1,0 +1,43 @@
+body td {
+  font-size: 100%;
+}
+.th td, .th th {
+  padding: 10px 5px;
+}
+.qr textarea {
+  width: 100%;
+  padding: 10px;
+}
+.qr table {
+  width: 100%;
+}
+table.th + table {
+  padding: 10px;
+}
+table[bgcolor="#C3D9FF"], table[bgcolor="#74D982"], table[bgcolor="#fad163"], table[bgcolor="#CCCCCC"] {
+  padding: 10px;
+}
+input[type="submit"] {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  font-weight: 700;
+}
+textarea[name="to"],
+input[name="cc"],
+input[name="bcc"],
+input[name="subject"],
+textarea[name="body"] {
+  padding: 10px;
+}
+
+.compose .mi {
+  width: 90%;
+}
+
+input[title="Search"] {
+  padding: 10px 5px;
+}
+
+select[name="tact"], select[name="bact"] {
+  padding: 10px 5px;
+}
