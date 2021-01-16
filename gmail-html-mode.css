@@ -41,3 +41,7 @@ input[title="Search"] {
 select[name="tact"], select[name="bact"] {
   padding: 10px 5px;
 }
+
+font[size="1"] {
+  font-size: 100%;
+}
